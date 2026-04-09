@@ -1,14 +1,14 @@
 <div align="center">
 
-# Matheus Carvalho
+<h1>Matheus Carvalho</h1>
 <p>Desenvolvedor Fullstack & estudante de Análise e Desenvolvimento de Sistemas.</p>
 <p><code>Design Gráfico</code> · <code>DJ</code> · <code>Produção Musical</code> · <code>VJ</code> · <code><s>Perfeccionista</s></code> · <code>e <i>MUITO</i> curioso</code></p>
 
 Atualmente trabalhando no projeto pessoal [**CineNotes**](https://github.com/mrmath12/cinenotes) — uma plataforma de avaliações de filmes 🎬
 
----
+<br>
 
-### | Tech Stack |
+<h2>| Tech Stack |</h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
@@ -28,13 +28,13 @@ Atualmente trabalhando no projeto pessoal [**CineNotes**](https://github.com/mrm
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 
----
+<br>
 
-### | Projeto Pessoal Atual |
+<h2>| Projeto Pessoal Atual |</h2>
 
-<table>
+<table align="center">
   <tr>
-    <td>
+    <td align="center">
       <h3><a href="https://github.com/mrmath12/cinenotes">CineNotes</a></h3>
       <p>Plataforma para avaliar, catalogar e compartilhar opiniões sobre filmes.</p>
       <p>
@@ -50,7 +50,7 @@ Atualmente trabalhando no projeto pessoal [**CineNotes**](https://github.com/mrm
   </tr>
 </table>
 
----
+<br>
 
 <a href="https://open.spotify.com/user/226qh2dc66hlm6mquro6z7sga">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=226qh2dc66hlm6mquro6z7sga&count=3&unique=true" alt="Spotify recently played" />
